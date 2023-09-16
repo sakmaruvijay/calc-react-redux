@@ -1,5 +1,4 @@
-
-https://github.com/peckpeck20/react-redux-counter-example
+https://github.com/sakmaruvijay/calc-react-redux
 # Counter App with Redux 
 
 Basic React App showcasing how Redux works and connects with React.JS
@@ -8,19 +7,19 @@ Basic React App showcasing how Redux works and connects with React.JS
 
 ## Live Demo
 
-https://redux-react-counter-app.surge.sh/
+https://calc-react-with-redux/
 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Below instructions will get you a copy of the project. You can run on your local machine for development and testing purposes. 
 
 
 
 ### Installing
 
 ```
-git clone  https://github.com/peckpeck20/react-redux-counter-example.git
+git clone https://github.com/sakmaruvijay/calc-react-redux
 ```
 
 ```
