@@ -8,7 +8,7 @@ Basic React App showcasing how Redux works and connects with React.JS
 
 
 ## Live Demo
-https://sakmaruvijay.github.io/calc-react-redux
+https://sakmaruvijay.github.io/calc-react-redux-page
 
 
 ## Getting Started
