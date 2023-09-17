@@ -1,3 +1,5 @@
+
+
 https://github.com/sakmaruvijay/calc-react-redux
 # Counter App with Redux 
 
@@ -6,20 +8,18 @@ Basic React App showcasing how Redux works and connects with React.JS
 
 
 ## Live Demo
-
-https://calc-react-with-redux/
+https://sakmaruvijay.github.io/calc-react-redux
 
 
 ## Getting Started
-
-Below instructions will get you a copy of the project. You can run on your local machine for development and testing purposes. 
+Below instructions will get you a copy of the project. You can run on your local machine for development and testing purposes.
 
 
 
 ### Installing
 
 ```
-git clone https://github.com/sakmaruvijay/calc-react-redux
+git clone  https://github.com/sakmaruvijay/calc-react-redux
 ```
 
 ```
